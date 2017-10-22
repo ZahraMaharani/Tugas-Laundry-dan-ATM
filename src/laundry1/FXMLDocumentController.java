@@ -97,7 +97,7 @@ public class FXMLDocumentController implements Initializable {
         
         String nohp = nomor.getText();
         
-        hasil.setText("Nama : "+Nama+"\nAlamat : "+Alamat+"Berat Cucian : "+Berat+"Pembayaran yang harus dibayar : "+harga);
+        hasil.setText("Nama : "+Nama+"\nAlamat : "+Alamat+"\nBerat Cucian : "+Berat+"\nPembayaran yang harus dibayar : "+harga);
         
         
         }
